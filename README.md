@@ -1,1 +1,1 @@
-This is the icon server for NFT Experiment
+This is the icon server for NFT Experiment.
