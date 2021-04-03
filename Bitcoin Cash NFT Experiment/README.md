@@ -1,1 +1,1 @@
-# fixthetracking.github.io
+This is the icon folder for NFTX.
